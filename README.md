@@ -1,6 +1,6 @@
 Hello 👋
 
-let me introduce myself, my name is Sammy, I'd describe myself as a front-end developer, although I'm still learning it. 
+my name is Sammy, I'd prefer to call myself as an Web Developer, although I'm still learning it. 
 
 Some information about me :
 
